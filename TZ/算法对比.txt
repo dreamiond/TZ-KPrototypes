@@ -1,0 +1,20 @@
+原始算法（k-prototypes）:
+COST: 713
+TP: 475
+FP: 151
+FN: 9
+TN: 365
+
+
+改进算法：
+COST: 255
+TP: 400
+FP: 22
+FN: 84
+TN: 494
+
+k-means:
+TP: 466
+FP: 18
+FN: 147
+TN: 369
