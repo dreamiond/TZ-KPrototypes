@@ -11,11 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="normalization.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="normalization.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TZ/normalization/normalization.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+            <state relative-caret-position="675">
+              <caret line="33" selection-start-line="33" selection-end-line="36" selection-end-column="31" />
               <folding>
                 <element signature="e#22#32#0" expanded="true" />
               </folding>
@@ -23,7 +23,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cities.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="cities.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TZ/cities.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="621">
@@ -38,7 +38,7 @@
       <file leaf-file-name="PCA.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TZ/decomposition/PCA.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1431">
+            <state relative-caret-position="836">
               <caret line="55" selection-start-line="55" selection-end-line="55" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
@@ -126,6 +126,9 @@
       <find>cat_dissim</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -154,11 +157,14 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="124" />
-    <option name="y" value="82" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-74" />
+    <option name="y" value="113" />
     <option name="width" value="1944" />
     <option name="height" value="1044" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -177,6 +183,12 @@
               <item name="TZ-KPrototypes" type="462c0819:PsiDirectoryNode" />
               <item name="TZ" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TZ-KPrototypes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TZ-KPrototypes" type="462c0819:PsiDirectoryNode" />
+              <item name="TZ" type="462c0819:PsiDirectoryNode" />
+              <item name="normalization" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -185,7 +197,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ZYX_DBSCAN+LOF" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -322,13 +334,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20885417" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32943678" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32943678" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -350,7 +362,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
-      <path value="$PROJECT_DIR$/../.." />
+      <path value="D:" />
     </ignored-roots>
   </component>
   <component name="XDebuggerManager">
@@ -598,16 +610,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ap.py" />
-    <entry file="file://$PROJECT_DIR$/TZ/normalization/normalization.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
-          <folding>
-            <element signature="e#22#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TZ/networkflow_1000.py" />
     <entry file="file://$PROJECT_DIR$/TZ/networkflow_5000.py" />
     <entry file="file://$PROJECT_DIR$/TZ/networkflow_10000.py" />
@@ -632,16 +634,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TZ/decomposition/PCA.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1431">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TZ/kmeans/k-means.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3051">
@@ -658,6 +650,26 @@
           <caret line="35" selection-start-line="35" selection-end-line="35" />
           <folding>
             <element signature="e#23#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TZ/decomposition/PCA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TZ/normalization/normalization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="33" selection-start-line="33" selection-end-line="36" selection-end-column="31" />
+          <folding>
+            <element signature="e#22#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
